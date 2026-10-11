@@ -1,0 +1,21 @@
+{
+  "id": "./",
+  "name": "لعبة الحروف - Letters Game",
+  "short_name": "لعبة الحروف",
+  "description": "لعبة تعليمية للأطفال لتعلّم الحروف العربية والإنجليزية بالنطق والكتابة والألعاب. Kids game to learn Arabic and English letters through speaking, writing and play.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#6a11cb",
+  "theme_color": "#6a11cb",
+  "categories": ["education", "kids", "games"],
+  "prefer_related_applications": false,
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
